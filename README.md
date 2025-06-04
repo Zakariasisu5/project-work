@@ -44,7 +44,7 @@ Built with accessibility, mobile-friendliness, and a beautiful dark theme in min
    ```
 
 4. **Open in your browser:**  
-   Visit [http://localhost:3000](http://localhost:3000)
+  🔗**Visit** https://project-work-mu.vercel.app/
 
 ---
 
