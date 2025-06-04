@@ -29,7 +29,7 @@ Built with accessibility, mobile-friendliness, and a beautiful dark theme in min
 
 1. **Clone the repository:**
    ```sh
-   https://github.com/Zakariasisu5/React-Project.git
+   https://github.com/Zakariasisu5/project-work.git
    cd your-repo-name
    ```
 
