@@ -52,7 +52,7 @@ Built with accessibility, mobile-friendliness, and a beautiful dark theme in min
 
 1. Add the following to your `package.json`:
    ```json
-   "homepage": "https://github.com/Zakariasisu5/React-Project/tree/main/skip-size-page"
+   "homepage": "https://Zakariasisu5/github.io/project-work"
    ```
 2. Add deploy scripts:
    ```json
